@@ -9,8 +9,8 @@ const styles = StyleSheet.create({
         padding: 20,
         backgroundColor: '#f0f0f0',
         textAlign: 'center',
-        borderWidth: 1,
-        borderColor: '#888',
+        borderWidth: 0.5,
+        borderColor: '#606060',
     },
     operationButton: {
         color: '#000',
